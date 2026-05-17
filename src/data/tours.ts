@@ -51,7 +51,7 @@ export const tours: Tour[] = [
     category: "Wildlife",
     duration: "17 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1549474149-16aebb265692?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1585675100414-22cb9922e96d?auto=format&fit=crop&q=80&w=1200",
     overview: "Immersive, expert-led, and rich in biodiversity. For the Australian traveler seeking space, restorative nature, and deep immersion, this 17-day expedition is the ultimate escape. Features the endemic 'Big Three': the Sri Lankan Leopard, Asian Elephant, and Sloth Bear.",
     inclusions: [
       ...stdInclusions,
@@ -79,7 +79,7 @@ export const tours: Tour[] = [
     category: "Cultural",
     duration: "9 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1625736300976-b3e34b9d5cbf?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1587595431973-3f10d68f00eb?auto=format&fit=crop&q=80&w=1200",
     overview: "A curated journey through Sri Lanka’s 'Cultural Triangle' and into the misty tea country. Designed to balance grand UNESCO monuments with quiet, authentic moments in nature.",
     inclusions: [
       ...stdInclusions,
@@ -106,7 +106,7 @@ export const tours: Tour[] = [
     category: "Beach",
     duration: "12 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1574677209355-38dc19fc8200?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&q=80&w=1200",
     overview: "Off-the-beaten-track pristine beaches and cultural immersion. Perfect for the Australian winter (May-September), journey from the historic harbors of Trincomalee to the surf breaks of Arugam Bay.",
     inclusions: [
       ...stdInclusions,
@@ -133,7 +133,7 @@ export const tours: Tour[] = [
     category: "Adventure",
     duration: "15 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1544256718-3baf237cba8b?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1546313175-926af1172eb6?auto=format&fit=crop&q=80&w=1200",
     overview: "High-octane, untamed, and physically demanding. Designed for outdoor enthusiasts, pushing your limits across Sri Lanka’s most remote and rugged landscapes.",
     inclusions: [
       ...stdInclusions,
@@ -162,7 +162,7 @@ export const tours: Tour[] = [
     category: "Ayurvedic",
     duration: "10 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1515238152737-222536e2430c?auto=format&fit=crop&q=80&w=1200",
     overview: "Restorative, personalized, and spiritually grounding. 5,000-year-old system of natural medicine built on biological balance through diet, lifestyle, and herbal therapy.",
     inclusions: [
       ...stdInclusions,
@@ -184,7 +184,7 @@ export const tours: Tour[] = [
     category: "Hill Country",
     duration: "7 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1586611360050-8de6f1e31af8?auto=format&fit=crop&q=80&w=1200",
     overview: "Sophisticated, scenic, and restorative. Escape into the emerald heart of Sri Lanka where the air is crisp, draped in world-famous tea estates.",
     inclusions: [
       ...stdInclusions,
@@ -209,7 +209,7 @@ export const tours: Tour[] = [
     category: "Honeymoon",
     duration: "17 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1544325785-cfdbcd2ec230?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1522748906645-95d8eb84dbf7?auto=format&fit=crop&q=80&w=1200",
     overview: "Celebrate your new chapter designed for intimacy and wonder. Drift over emerald jungles in a hot air balloon, track leopards, and share candlelit dinners in the rainforest.",
     inclusions: [
       ...stdInclusions,
@@ -239,7 +239,7 @@ export const tours: Tour[] = [
     category: "Family",
     duration: "19 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1574677209930-8d5ba9f0f97c?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&q=80&w=1200",
     overview: "19 Days of Culture, Coast, and Conservation. Designed for families wanting authentic safaris, breathtaking trails, kite surfing, and beachside fun.",
     inclusions: [
       ...stdInclusions,
@@ -269,7 +269,7 @@ export const tours: Tour[] = [
     category: "Golf",
     duration: "11 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1587174486073-ae5e5cff23aa?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1535136195217-18f1ee4bb2a6?auto=format&fit=crop&q=80&w=1200",
     overview: "A golfing experience like no other. Discover the colonial charm of Royal Colombo, the mist-covered greens of Nuwara Eliya, and the stunning Victoria Golf Resort.",
     inclusions: [
       ...stdInclusions,
@@ -296,7 +296,7 @@ export const tours: Tour[] = [
     category: "Ramayana",
     duration: "7 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1555580544-774431e71f92?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1604711929420-bfcc99edaba0?auto=format&fit=crop&q=80&w=1200",
     overview: "Step into the pages of the great Indian epic. From the mountains where Hanuman left footprints to the serene gardens where Sita was held, connecting to ancient devotion.",
     inclusions: [
       ...stdInclusions,
@@ -320,7 +320,7 @@ export const tours: Tour[] = [
     category: "Religious",
     duration: "5 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1590447333534-1c6fc80df9ba?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1574620864390-41ebd9395f13?auto=format&fit=crop&q=80&w=1200",
     overview: "Designed for believers seeking a profound encounter under the ministry of Prophet Jerome Fernando. VIP seating for Forensic Prophecy and Sunday services.",
     inclusions: [
       ...stdInclusions,
@@ -343,7 +343,7 @@ export const tours: Tour[] = [
     category: "MICE",
     duration: "7 Days",
     price: priceNotice,
-    image: "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1505373877841-8eb1b6baec05?auto=format&fit=crop&q=80&w=1200",
     overview: "Elevate your corporate gathering with a world-class event hosting leading into Sri Lankan adventure, culture, and nightlife for team-building.",
     inclusions: [
       ...stdInclusions,

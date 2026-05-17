@@ -11,7 +11,7 @@ export default function Home() {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-ink/40 z-10" />
         <img 
-          src="https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?auto=format&fit=crop&q=80&w=2000" 
+          src="https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&q=80&w=2000" 
           alt="Sri Lanka landscape" 
           className="absolute inset-0 w-full h-full object-cover"
         />
@@ -52,7 +52,7 @@ export default function Home() {
           <p className="text-ink/70 leading-relaxed mb-8 font-light">
             Our mission is simple: to connect people, cultures and destinations through carefully planned travel experiences. Whether you are travelling from Australia for a relaxing beach holiday, a private family tour, a romantic honeymoon, an adventure-filled escape or a meaningful spiritual journey, our team is ready to design a tour that suits your travel style, schedule and budget.
           </p>
-          <img src="https://images.unsplash.com/photo-1549474149-16aebb265692?auto=format&fit=crop&w=600&h=400" alt="Elephants" className="w-full h-64 object-cover rounded-3xl" />
+          <img src="https://images.unsplash.com/photo-1585675100414-22cb9922e96d?auto=format&fit=crop&w=600&h=400" alt="Elephants" className="w-full h-64 object-cover rounded-3xl" />
         </div>
         <div>
           <h2 className="font-serif text-4xl md:text-4xl mb-6 border-t border-ink/10 pt-8 md:border-none md:pt-0">About <br /><span className="italic text-olive">Universal Ceylon Travels</span></h2>

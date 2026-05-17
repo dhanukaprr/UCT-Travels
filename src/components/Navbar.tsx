@@ -34,7 +34,7 @@ export default function Navbar() {
             </Link>
           </div>
           
-          <div className="hidden md:flex space-x-8">
+          <div className="hidden md:flex items-center space-x-8">
             {links.map((link) => (
               <Link
                 key={link.name}

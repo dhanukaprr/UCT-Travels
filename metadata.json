@@ -1,0 +1,8 @@
+{
+  "name": "UCT Travels",
+  "description": "Inbound tourism website for Universal Ceylon Travels (Pvt) Ltd, specializing in Sri Lanka tours for Australians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
